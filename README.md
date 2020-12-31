@@ -1,2 +1,2 @@
 #first repository
-add nes contents
+add new contents
